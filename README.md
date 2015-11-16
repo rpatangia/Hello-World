@@ -1,3 +1,3 @@
 # Hello-World
-Learning Git
+Learning Git.
 Now I know a little more about Git.
